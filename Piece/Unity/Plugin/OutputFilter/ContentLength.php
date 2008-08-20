@@ -111,4 +111,3 @@ class Piece_Unity_Plugin_OutputFilter_ContentLength extends Piece_Unity_Plugin_C
  * indent-tabs-mode: nil
  * End:
  */
-?>
